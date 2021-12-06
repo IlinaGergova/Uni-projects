@@ -1,0 +1,9 @@
+Income 77.5
+Outcome 404.0
+--------------------------
+Publications information: 
+- Publication{typeOfPublication='Book', pricePublication=15.5, title='Bleach1', numOfPages=33, sizeOfPage=A5, paper=PAPER, paperPrice=0.8, color=BLACKANDWHITE}
+- Publication{typeOfPublication='Book', pricePublication=15.5, title='Bleach2', numOfPages=43, sizeOfPage=A5, paper=PAPER, paperPrice=0.8, color=BLACKANDWHITE}
+- Publication{typeOfPublication='Book', pricePublication=15.5, title='Bleach3', numOfPages=83, sizeOfPage=A5, paper=PAPER, paperPrice=0.8, color=BLACKANDWHITE}
+- Publication{typeOfPublication='Book', pricePublication=15.5, title='Bleach4', numOfPages=23, sizeOfPage=A5, paper=PAPER, paperPrice=0.8, color=COLORFUL}
+- Publication{typeOfPublication='Book', pricePublication=15.5, title='Bleach5', numOfPages=33, sizeOfPage=A5, paper=PAPER, paperPrice=0.8, color=COLORFUL}
