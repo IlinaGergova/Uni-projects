@@ -1,0 +1,118 @@
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Globalization.Calendars.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Net.Http.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Net.Sockets.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\obj\Debug\RecipesWebApp.csproj.AssemblyReference.cache
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\obj\Debug\RecipesWebApp.csproj.CoreCompileInputs.cache
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\obj\Debug\RecipesWebApp.csproj.CopyComplete
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\НБУ\6\ASP .NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\WebApplication2.dll.config
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\WebApplication2.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\WebApplication2.pdb
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\csc.exe
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\csc.exe.config
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\csc.rsp
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\csi.exe
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\csi.exe.config
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\csi.rsp
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.AppContext.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Console.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Globalization.Calendars.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.IO.Compression.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Net.Http.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Net.Sockets.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.ValueTuple.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\vbc.exe
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\vbc.exe.config
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\vbc.rsp
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\obj\Debug\RecipesWebApp.csproj.AssemblyReference.cache
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\obj\Debug\RecipesWebApp.csproj.CoreCompileInputs.cache
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\obj\Debug\RecipesWebApp.csproj.CopyComplete
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\obj\Debug\WebApplication2.dll
+E:\WEB\GITHUB-uni projects\Uni-projects\Recipe website\WebApplication2\obj\Debug\WebApplication2.pdb
