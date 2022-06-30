@@ -13,6 +13,7 @@
             color:#264653;
             font-size:50px;
             text-align: center;
+            margin-left: 7rem;
         }
         a{
             text-decoration:none;
@@ -42,6 +43,7 @@
             justify-self: center;
         }
         .rec:hover{
+            z-index:0;
             transform: translateY(-0.25em);
             box-shadow:0em 0.5em 0.5em -0.5em #e9c46a;
         }
@@ -83,6 +85,7 @@
             width:150px;
             height:50px;
             font-size:1.3rem;
+            margin-right:25px;
         }
         #showSidebar:hover{
             transform: scale(1.1);
@@ -100,46 +103,100 @@
             border-radius:20px;
             font-size:larger;
         }
-       #heading{
-           display:flex;
-           justify-content:center;
-           column-gap:32rem;
-           margin-left:38rem;
-       }
        .sidebar{
            background-color:white;
-           height:100%;
            width:30%;
-           padding:20px;
-           float:right;
-           z-index:1;
+           border-radius:0 0 2rem 2rem;
            margin-top:-9rem;
+           position:absolute;
+           left:66rem;
        }
        .sidebarNav{
+           background-color:#2a9d8f;
            display:flex;
            justify-content:space-between;
+       }
+       #inputField{
+           width:20rem;
+            height:30px;
+            border:2px solid #f4a261;
+            border-radius:20px;
+            margin:20px;
+       }
+       #addProduct{
+           text-align:center;
+            background-color:#264653;
+            color:white;
+            padding:10px 0 10px 0;
+            border:none;
+            width:90px;
+            height:40px;
+            border-radius:3rem;
+            font-size:1rem;
+            margin:20px;
+       }
+       #addProduct:hover{
+           cursor:pointer;
+           background-color:#2a9d8f;
+           transform: scale(1.1);
+           box-shadow:0em 0.5em 0.5em -0.5em #219ebc;
+       }
+       hr{
+           color:#264653;
+       }
+       ul{
+            list-style-type: none;
+            margin-block-start: 0;
+            margin-left:-1rem;
        }
        #closeBtn{
            float:right;
             text-align:center;
             background:none;
-            color:#e76f51;
+            color:white;
             padding:10px 0 10px 0;
             border:none;
             font-size:1.3rem;
+            margin-right:20px;
        }
        #closeBtn:hover{
            cursor:pointer;
        }
-       h2{
+       ul input[type='button']:nth-of-type(1){
+            background:none;
+            color:#f4a261;
+            padding:10px 0 10px 0;
+            border:none;
+            font-size:1rem;
+            margin-right:20px; 
+
+       }
+       ul input[type='button']{
+          
+           background-color:#2a9d8f;
+           border-radius:25%;
+           text-align:center;
+           border:none;
+           color:white;
+           margin-left:2px;
+       }
+       ul input[type='button']:hover{
+           cursor:pointer;
            color:#e76f51;
+       }
+       h2{
+           color:white;
+           margin-left:20px;
        }
        .inputNav{
            display:flex;
            justify-content:space-between;
+           align-items: center;
        }
-       input[type=checkbox]:checked + span.product {
-            text-decoration: line-through;
+       span{
+           margin:0 5px 0 5px;
+           color:#e76f51;
+           font-weight:bold;
        }
     </style>
 </head>
@@ -147,22 +204,25 @@
     
     <form id="form1" runat="server">
         <div id="heading">
+            <asp:Button ID="showSidebar" runat="server" Text="To buy list" OnClick="showList"></asp:Button> 
             <h1>Recipes</h1>
-            <asp:Button ID="showSidebar" runat="server" Text="To buy list" OnClick="showList"></asp:Button>      
         </div>
-
+        
         <asp:PlaceHolder ID="Sidebar" runat="server" Visible="false">
             <div class='sidebar'>
                 <div class='sidebarNav'>
                     <h2>My list</h2>
                     <asp:Button ID="closeBtn" runat="server" Text="x" OnClick="hideList" />
                 </div>
+                <ul>
+                    <asp:PlaceHolder ID="items" runat="server" >
+                    </asp:PlaceHolder>
+                </ul>
                 
-                <asp:PlaceHolder ID="items" runat="server" ></asp:PlaceHolder>
      
                 <hr />
                 <div class='inputNav'>
-                    <asp:TextBox ID="inputField" runat="server"></asp:TextBox>
+                    <asp:TextBox ID="inputField" runat="server" AutoCompleteType="Disabled"></asp:TextBox>
                     <asp:Button ID="addProduct" runat="server" Text="add" OnClick="addToList" />
                 </div>
             </div>

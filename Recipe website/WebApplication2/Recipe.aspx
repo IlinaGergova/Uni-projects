@@ -94,6 +94,24 @@
             display:grid;
             grid-template-columns: 10rem 75rem;
         }
+        ul{
+            list-style-type: none;
+            margin-block-start: 0;
+            margin-left:-1rem;
+       }
+        li{
+            margin-bottom:5px;
+        }
+        .addBtn{
+            background-color:#264653;
+            color:white;
+            border:none;
+            border-radius:2.2rem;
+        }
+        .addBtn:hover{
+            background-color:#e76f51;
+            cursor:pointer;
+        }
     </style>
 </head>
 <body>
